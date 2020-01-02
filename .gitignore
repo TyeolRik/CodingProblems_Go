@@ -1,3 +1,7 @@
+# TyeolRik Customize
+/bin/
+/pkg/
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
